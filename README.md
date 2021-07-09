@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shaqtee
-- 👀 I’m interested in play code
+- 👀 I’m interested in playing code
 - 🌱 I’m currently build something
-- 💞️ I’m looking to collaborate on everybody
+- 💞️ I’m looking to collaborate to everybody
 - 📫 How to reach me -> https://www.linkedin.com/in/adisakti/
 
 <!---
